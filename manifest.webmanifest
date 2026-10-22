@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Healthy House — Sales Book",
+  "short_name": "Healthy House",
+  "description": "Personal daily sales, discounts, expenses and stock tracker for Healthy House.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf7e9",
+  "theme_color": "#245d32",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
